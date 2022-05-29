@@ -1,6 +1,6 @@
 # Hello 👋
 ## I'm Jahshaka
-  - I'm 15 years old
+  - I'm 16 years old
   - I'm from Germany
   - I like programming and learnig new stuff 🌺
 
